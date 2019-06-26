@@ -8,7 +8,7 @@ var andiVersionNumber = "26.2.3";
 // ANDI CONFIG: //
 //==============//
 //URLs
-var host_url = "https://www.ssa.gov/accessibility/andi/";
+var host_url = "file:///home/kfogel/src/ANDI/andi";
 var help_url = host_url+"help/";
 var icons_url = host_url+"icons/";
 
